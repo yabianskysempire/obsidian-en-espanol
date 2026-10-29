@@ -20,6 +20,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Roadmap de producto en Obsidian: cómo planificar qué construir en los próximos 3 meses (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/roadmap-de-producto-en-obsidian.html)
+- [Bandeja de entrada en Obsidian: captura sin desordenar](https://yabianskysempire.github.io/fundador/articulos/bandeja-de-entrada-en-obsidian.html)
 - [Markdown para Obsidian: guía rápida de formato en 10 minutos](https://yabianskysempire.github.io/fundador/articulos/markdown-para-obsidian.html)
 - [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
 - [Nota diaria en Obsidian: plantilla y rutina de 5 minutos para empezar el día con foco](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
@@ -41,6 +43,10 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo (con nota diaria en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
+- [Entrevistas con clientes (customer discovery): guía de preguntas y cómo registrar lo que aprendés en Obsidian](https://yabianskysempire.github.io/fundador/articulos/entrevistas-con-clientes-customer-discovery.html)
+- [Cómo calcular el runway de tu startup: fórmula y ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-calcular-el-runway-de-tu-startup.html)
+- [Calendario de contenidos para un negocio pequeño: cómo planificar tus publicaciones del mes en Obsidian](https://yabianskysempire.github.io/fundador/articulos/calendario-de-contenidos-para-un-negocio-pequeno.html)
 - [Reunión 1 a 1 con tu equipo: plantilla y preguntas](https://yabianskysempire.github.io/fundador/articulos/reunion-1-a-1-plantilla-y-preguntas.html)
 - [Retrospectiva de proyecto: cómo aprender de lo que salió bien y mal (paso a paso, con plantilla en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/retrospectiva-de-proyecto.html)
 - [Lean Canvas en español: cómo completarlo en una página y mantenerlo actualizado en Obsidian](https://yabianskysempire.github.io/fundador/articulos/lean-canvas-en-espanol.html)
@@ -51,6 +57,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Rutinas y productividad
 
+- [Cómo priorizar tareas cuando todo es urgente](https://yabianskysempire.github.io/fundador/articulos/como-priorizar-tareas-cuando-todo-es-urgente.html)
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Revisión anual para fundadores: cómo cerrar el año y planificar el siguiente (paso a paso, en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/revision-anual-para-fundadores.html)
 - [Cómo delegar tareas en un equipo pequeño: qué delegar, cómo explicarlo y cómo hacer seguimiento](https://yabianskysempire.github.io/fundador/articulos/como-delegar-tareas-en-un-equipo-pequeno.html)
