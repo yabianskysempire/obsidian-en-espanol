@@ -21,6 +21,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 ### Obsidian
 
 - [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
+- [Complementos de la comunidad en Obsidian: cómo instalarlos con seguridad y cuántos necesitás realmente](https://yabianskysempire.github.io/fundador/articulos/complementos-de-la-comunidad-en-obsidian.html)
 - [Roadmap de producto en Obsidian: cómo planificar qué construir en los próximos 3 meses (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/roadmap-de-producto-en-obsidian.html)
 - [Bandeja de entrada en Obsidian: captura sin desordenar](https://yabianskysempire.github.io/fundador/articulos/bandeja-de-entrada-en-obsidian.html)
 - [Markdown para Obsidian: guía rápida de formato en 10 minutos](https://yabianskysempire.github.io/fundador/articulos/markdown-para-obsidian.html)
@@ -45,6 +46,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 ### Negocio y fundadores
 
 - [Cómo preparar una reunión con inversores](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-reunion-con-inversores.html)
+- [Cómo organizar la contratación en un equipo pequeño: pipeline de candidatos en Obsidian (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/como-organizar-la-contratacion-en-un-equipo-pequeno.html)
+- [Cómo evitar el agotamiento como fundador: una revisión personal semanal de energía y límites (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/como-evitar-el-agotamiento-como-fundador.html)
 - [Cómo documentar procesos en un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/como-documentar-procesos-en-un-negocio-pequeno.html)
 - [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo (con nota diaria en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
 - [Entrevistas con clientes (customer discovery): guía de preguntas y cómo registrar lo que aprendés en Obsidian](https://yabianskysempire.github.io/fundador/articulos/entrevistas-con-clientes-customer-discovery.html)
