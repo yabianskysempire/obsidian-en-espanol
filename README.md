@@ -46,6 +46,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Onboarding del primer empleado: primera semana y primer mes](https://yabianskysempire.github.io/fundador/articulos/onboarding-del-primer-empleado.html)
+- [Cómo fijar el precio de tu primer producto digital](https://yabianskysempire.github.io/fundador/articulos/como-fijar-el-precio-de-un-producto-digital.html)
 - [Cómo preparar una reunión con inversores](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-reunion-con-inversores.html)
 - [Cómo organizar la contratación en un equipo pequeño: pipeline de candidatos en Obsidian (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/como-organizar-la-contratacion-en-un-equipo-pequeno.html)
 - [Cómo evitar el agotamiento como fundador: una revisión personal semanal de energía y límites (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/como-evitar-el-agotamiento-como-fundador.html)
