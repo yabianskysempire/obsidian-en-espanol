@@ -20,6 +20,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Plantilla de proyecto en Obsidian: cómo definir objetivo, alcance, tareas, fechas y estado en una sola nota (paso a paso](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-proyecto-en-obsidian.html)
 - [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
 - [Complementos de la comunidad en Obsidian: cómo instalarlos con seguridad y cuántos necesitás realmente](https://yabianskysempire.github.io/fundador/articulos/complementos-de-la-comunidad-en-obsidian.html)
 - [Roadmap de producto en Obsidian: cómo planificar qué construir en los próximos 3 meses (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/roadmap-de-producto-en-obsidian.html)
