@@ -20,7 +20,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
-- [Plantilla de proyecto en Obsidian: cómo definir objetivo, alcance, tareas, fechas y estado en una sola nota (paso a paso](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-proyecto-en-obsidian.html)
+- [¿Una bóveda o varias en Obsidian? Cómo separar tu negocio y tu vida personal (y cuándo no conviene)](https://yabianskysempire.github.io/fundador/articulos/una-boveda-o-varias-en-obsidian-como-separar-tu-negocio-y-tu.html)
+- [Plantilla de proyecto en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-proyecto-en-obsidian.html)
 - [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
 - [Complementos de la comunidad en Obsidian: cómo instalarlos con seguridad y cuántos necesitás realmente](https://yabianskysempire.github.io/fundador/articulos/complementos-de-la-comunidad-en-obsidian.html)
 - [Roadmap de producto en Obsidian: cómo planificar qué construir en los próximos 3 meses (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/roadmap-de-producto-en-obsidian.html)
@@ -48,6 +49,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 - [Onboarding del primer empleado: primera semana y primer mes](https://yabianskysempire.github.io/fundador/articulos/onboarding-del-primer-empleado.html)
 - [Cómo fijar el precio de tu primer producto digital](https://yabianskysempire.github.io/fundador/articulos/como-fijar-el-precio-de-un-producto-digital.html)
+- [Análisis FODA para tu negocio o startup: cómo hacerlo en una hora y convertirlo en decisiones (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/analisis-foda-para-tu-negocio-o-startup.html)
 - [Cómo preparar una reunión con inversores](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-reunion-con-inversores.html)
 - [Cómo organizar la contratación en un equipo pequeño: pipeline de candidatos en Obsidian (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/como-organizar-la-contratacion-en-un-equipo-pequeno.html)
 - [Cómo evitar el agotamiento como fundador: una revisión personal semanal de energía y límites (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/como-evitar-el-agotamiento-como-fundador.html)
