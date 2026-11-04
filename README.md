@@ -21,6 +21,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 ### Obsidian
 
 - [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
+- [Registro de contactos profesionales en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-contactos-profesionales-en-obsidian.html)
 - [Propiedades en Obsidian: qué son y cómo usarlas](https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html)
 - [Análisis de ventas ganadas y perdidas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/analisis-de-ventas-ganadas-y-perdidas-en-obsidian.html)
 - [¿Una bóveda o varias en Obsidian? Cómo separar tu negocio y tu vida personal (y cuándo no conviene)](https://yabianskysempire.github.io/fundador/articulos/una-boveda-o-varias-en-obsidian-como-separar-tu-negocio-y-tu.html)
@@ -50,6 +51,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Unit economics para startups tempranas con ejemplo](https://yabianskysempire.github.io/fundador/articulos/unit-economics-para-startups-tempranas-con-ejemplo.html)
 - [Cómo organizar proyectos y entregas siendo freelancer](https://yabianskysempire.github.io/fundador/articulos/organizar-proyectos-y-entregas-siendo-freelancer.html)
 - [Cómo organizar las finanzas de un freelancer](https://yabianskysempire.github.io/fundador/articulos/como-organizar-las-finanzas-de-un-freelancer.html)
 - [Onboarding del primer empleado: primera semana y primer mes](https://yabianskysempire.github.io/fundador/articulos/onboarding-del-primer-empleado.html)
@@ -73,6 +75,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Rutinas y productividad
 
+- [Agenda de reunión semanal de equipo en 30 minutos](https://yabianskysempire.github.io/fundador/articulos/agenda-de-reunion-semanal-de-equipo-en-30-minutos.html)
 - [Cómo priorizar tareas cuando todo es urgente](https://yabianskysempire.github.io/fundador/articulos/como-priorizar-tareas-cuando-todo-es-urgente.html)
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Revisión anual para fundadores: cómo cerrar el año y planificar el siguiente (paso a paso, en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/revision-anual-para-fundadores.html)
