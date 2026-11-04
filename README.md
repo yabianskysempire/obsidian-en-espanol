@@ -21,6 +21,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 ### Obsidian
 
 - [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
+- [Propiedades en Obsidian: qué son y cómo usarlas](https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html)
 - [¿Una bóveda o varias en Obsidian? Cómo separar tu negocio y tu vida personal (y cuándo no conviene)](https://yabianskysempire.github.io/fundador/articulos/una-boveda-o-varias-en-obsidian-como-separar-tu-negocio-y-tu.html)
 - [Plantilla de proyecto en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-proyecto-en-obsidian.html)
 - [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
@@ -48,6 +49,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Cómo organizar las finanzas de un freelancer](https://yabianskysempire.github.io/fundador/articulos/como-organizar-las-finanzas-de-un-freelancer.html)
 - [Onboarding del primer empleado: primera semana y primer mes](https://yabianskysempire.github.io/fundador/articulos/onboarding-del-primer-empleado.html)
 - [Cómo fijar el precio de tu primer producto digital](https://yabianskysempire.github.io/fundador/articulos/como-fijar-el-precio-de-un-producto-digital.html)
 - [Análisis FODA para tu negocio o startup: cómo hacerlo en una hora y convertirlo en decisiones (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/analisis-foda-para-tu-negocio-o-startup.html)
