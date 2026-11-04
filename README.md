@@ -20,6 +20,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
 - [¿Una bóveda o varias en Obsidian? Cómo separar tu negocio y tu vida personal (y cuándo no conviene)](https://yabianskysempire.github.io/fundador/articulos/una-boveda-o-varias-en-obsidian-como-separar-tu-negocio-y-tu.html)
 - [Plantilla de proyecto en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-proyecto-en-obsidian.html)
 - [Etiquetas o carpetas en Obsidian: cuándo usar cada una](https://yabianskysempire.github.io/fundador/articulos/etiquetas-o-carpetas-en-obsidian.html)
