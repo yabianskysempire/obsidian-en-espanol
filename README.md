@@ -21,6 +21,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 ### Obsidian
 
 - [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
+- [Cómo crear un MOC en Obsidian paso a paso](https://yabianskysempire.github.io/fundador/articulos/como-crear-un-moc-en-obsidian-paso-a-paso.html)
 - [Atajos de teclado de Obsidian: los más útiles](https://yabianskysempire.github.io/fundador/articulos/atajos-de-teclado-de-obsidian.html)
 - [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
 - [Registro de contactos profesionales en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-contactos-profesionales-en-obsidian.html)
@@ -53,6 +54,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Primera reunión de board en una startup temprana](https://yabianskysempire.github.io/fundador/articulos/primera-reunion-de-board-en-una-startup-temprana.html)
 - [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)
 - [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
 - [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
