@@ -20,6 +20,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
+- [Atajos de teclado de Obsidian: los más útiles](https://yabianskysempire.github.io/fundador/articulos/atajos-de-teclado-de-obsidian.html)
 - [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
 - [Registro de contactos profesionales en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-contactos-profesionales-en-obsidian.html)
 - [Propiedades en Obsidian: qué son y cómo usarlas](https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html)
