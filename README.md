@@ -51,6 +51,14 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)
+- [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
+- [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
+- [Evaluación de desempeño en un equipo pequeño cada 6 meses](https://yabianskysempire.github.io/fundador/articulos/evaluacion-de-desempeno-en-un-equipo-pequeno-cada-6-meses.html)
+- [Cómo escribir una propuesta comercial (con plantilla)](https://yabianskysempire.github.io/fundador/articulos/como-escribir-una-propuesta-comercial.html)
+- [Cómo escribir un PRD para una startup pequeña](https://yabianskysempire.github.io/fundador/articulos/como-escribir-un-prd-para-una-startup-pequena.html)
+- [Cómo definir tus servicios como freelancer](https://yabianskysempire.github.io/fundador/articulos/como-definir-tus-servicios-como-freelancer.html)
+- [Cómo cerrar un proyecto con un cliente: checklist](https://yabianskysempire.github.io/fundador/articulos/como-cerrar-un-proyecto-con-un-cliente.html)
 - [Unit economics para startups tempranas con ejemplo](https://yabianskysempire.github.io/fundador/articulos/unit-economics-para-startups-tempranas-con-ejemplo.html)
 - [Cómo organizar proyectos y entregas siendo freelancer](https://yabianskysempire.github.io/fundador/articulos/organizar-proyectos-y-entregas-siendo-freelancer.html)
 - [Cómo organizar las finanzas de un freelancer](https://yabianskysempire.github.io/fundador/articulos/como-organizar-las-finanzas-de-un-freelancer.html)
@@ -75,6 +83,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Rutinas y productividad
 
+- [Informe semanal de avances para tu equipo o socios](https://yabianskysempire.github.io/fundador/articulos/informe-semanal-de-avances-para-tu-equipo-o-socios.html)
 - [Agenda de reunión semanal de equipo en 30 minutos](https://yabianskysempire.github.io/fundador/articulos/agenda-de-reunion-semanal-de-equipo-en-30-minutos.html)
 - [Cómo priorizar tareas cuando todo es urgente](https://yabianskysempire.github.io/fundador/articulos/como-priorizar-tareas-cuando-todo-es-urgente.html)
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
