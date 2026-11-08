@@ -20,6 +20,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
 - [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
 - [Atajos de teclado de Obsidian: los más útiles](https://yabianskysempire.github.io/fundador/articulos/atajos-de-teclado-de-obsidian.html)
@@ -36,6 +37,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
 - [Nota diaria en Obsidian: plantilla y rutina de 5 minutos para empezar el día con foco](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
 - [Método PARA en español: cómo organizar tus notas en Obsidian con proyectos, áreas, recursos y archivo](https://yabianskysempire.github.io/fundador/articulos/metodo-para-en-obsidian.html)
+- [Cómo armar un panel de inicio en Obsidian](https://yabianskysempire.github.io/fundador/articulos/panel-de-inicio-en-obsidian.html)
+- [Tablero Kanban de proyectos en Obsidian con Bases](https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html)
 - [Bases en Obsidian: tablas de tus notas sin complementos](https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html)
 - [Propiedades en Obsidian: qué son y cómo usarlas](https://yabianskysempire.github.io/fundador/articulos/propiedades-en-obsidian.html)
 - [Plantilla de proyecto en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-proyecto-en-obsidian.html)
