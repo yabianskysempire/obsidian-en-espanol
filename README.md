@@ -20,6 +20,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
+- [Cómo organizar tu ronda de inversión en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-tu-ronda-de-inversion-en-obsidian.html)
 - [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
 - [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
