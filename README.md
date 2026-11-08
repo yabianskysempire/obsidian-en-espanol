@@ -20,8 +20,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
-- [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
-- [Cómo organizar tu ronda de inversión en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-tu-ronda-de-inversion-en-obsidian.html)
+- [Notas incrustadas y bloques en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/notas-incrustadas-y-bloques-en-obsidian-paso-a-paso.html)
 - [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
 - [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
@@ -48,6 +47,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo gestionar tus tareas en Obsidian: casillas, fechas y una vista de pendientes (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/como-gestionar-tus-tareas-en-obsidian.html)
 - [Canvas en Obsidian: cómo planificar un proyecto o lanzamiento de forma visual (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/canvas-en-obsidian-como-planificar-un-proyecto-o-76122b.html)
 - [Plantillas de Obsidian en español para organizar tu negocio: cuáles usar y cómo instalarlas](https://yabianskysempire.github.io/fundador/articulos/plantillas-de-obsidian-en-espanol-para-tu-negocio.html)
+- [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
+- [Cómo organizar tu ronda de inversión en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-tu-ronda-de-inversion-en-obsidian.html)
 - [README personal del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/readme-personal-del-fundador-en-obsidian.html)
 - [Diario de aprendizajes del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/diario-de-aprendizajes-del-fundador.html)
 - [Cómo registrar y priorizar feedback de clientes en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-registrar-y-priorizar-feedback-de-clientes-en-obsidian.html)
@@ -81,17 +82,20 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)
 - [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
 - [Evaluación de desempeño en un equipo pequeño cada 6 meses](https://yabianskysempire.github.io/fundador/articulos/evaluacion-de-desempeno-en-un-equipo-pequeno-cada-6-meses.html)
+- [Informe semanal de avances para tu equipo o socios](https://yabianskysempire.github.io/fundador/articulos/informe-semanal-de-avances-para-tu-equipo-o-socios.html)
+- [Agenda de reunión semanal de equipo en 30 minutos](https://yabianskysempire.github.io/fundador/articulos/agenda-de-reunion-semanal-de-equipo-en-30-minutos.html)
 - [Onboarding del primer empleado: primera semana y primer mes](https://yabianskysempire.github.io/fundador/articulos/onboarding-del-primer-empleado.html)
 - [Cómo preparar una reunión con inversores](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-reunion-con-inversores.html)
 - [Cómo organizar la contratación en un equipo pequeño: pipeline de candidatos en Obsidian (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/como-organizar-la-contratacion-en-un-equipo-pequeno.html)
 - [Reunión 1 a 1 con tu equipo: plantilla y preguntas](https://yabianskysempire.github.io/fundador/articulos/reunion-1-a-1-plantilla-y-preguntas.html)
+- [Cómo delegar tareas en un equipo pequeño: qué delegar, cómo explicarlo y cómo hacer seguimiento](https://yabianskysempire.github.io/fundador/articulos/como-delegar-tareas-en-un-equipo-pequeno.html)
 - [OKRs para equipos pequeños: qué son, cómo definirlos y cómo hacer su seguimiento (con plantilla)](https://yabianskysempire.github.io/fundador/articulos/okrs-para-equipos-pequenos-que-son-como-definirlos-46b4ef.html)
+- [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
+- [Auditoría de tiempo para fundadores](https://yabianskysempire.github.io/fundador/articulos/auditoria-de-tiempo-para-fundadores.html)
 - [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
 - [Cómo escribir un PRD para una startup pequeña](https://yabianskysempire.github.io/fundador/articulos/como-escribir-un-prd-para-una-startup-pequena.html)
 - [Análisis FODA para tu negocio o startup: cómo hacerlo en una hora y convertirlo en decisiones (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/analisis-foda-para-tu-negocio-o-startup.html)
-- [Cómo evitar el agotamiento como fundador: una revisión personal semanal de energía y límites (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/como-evitar-el-agotamiento-como-fundador.html)
 - [Cómo documentar procesos en un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/como-documentar-procesos-en-un-negocio-pequeno.html)
-- [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo (con nota diaria en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
 - [Calendario de contenidos para un negocio pequeño: cómo planificar tus publicaciones del mes en Obsidian](https://yabianskysempire.github.io/fundador/articulos/calendario-de-contenidos-para-un-negocio-pequeno.html)
 - [Retrospectiva de proyecto: cómo aprender de lo que salió bien y mal (paso a paso, con plantilla en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/retrospectiva-de-proyecto.html)
 - [Lean Canvas en español: cómo completarlo en una página y mantenerlo actualizado en Obsidian](https://yabianskysempire.github.io/fundador/articulos/lean-canvas-en-espanol.html)
@@ -100,12 +104,11 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Rutinas y productividad
 
-- [Informe semanal de avances para tu equipo o socios](https://yabianskysempire.github.io/fundador/articulos/informe-semanal-de-avances-para-tu-equipo-o-socios.html)
-- [Agenda de reunión semanal de equipo en 30 minutos](https://yabianskysempire.github.io/fundador/articulos/agenda-de-reunion-semanal-de-equipo-en-30-minutos.html)
+- [Cómo evitar el agotamiento como fundador: una revisión personal semanal de energía y límites (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/como-evitar-el-agotamiento-como-fundador.html)
+- [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo (con nota diaria en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
 - [Cómo priorizar tareas cuando todo es urgente](https://yabianskysempire.github.io/fundador/articulos/como-priorizar-tareas-cuando-todo-es-urgente.html)
 - [Revisión mensual para fundadores: qué mirar a fin de mes](https://yabianskysempire.github.io/fundador/articulos/revision-mensual-para-fundadores.html)
 - [Revisión anual para fundadores: cómo cerrar el año y planificar el siguiente (paso a paso, en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/revision-anual-para-fundadores.html)
-- [Cómo delegar tareas en un equipo pequeño: qué delegar, cómo explicarlo y cómo hacer seguimiento](https://yabianskysempire.github.io/fundador/articulos/como-delegar-tareas-en-un-equipo-pequeno.html)
 - [Cómo hacer una revisión semanal: guía paso a paso (con plantilla gratis)](https://yabianskysempire.github.io/fundador/articulos/como-hacer-una-revision-semanal.html)
 - [Sistema de planificación semanal y trimestral para fundadores de startups en LATAM](https://yabianskysempire.github.io/fundador/articulos/sistema-de-planificacion-semanal-y-trimestral-para-24c573.html)
 
