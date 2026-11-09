@@ -20,7 +20,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
-- [Notas incrustadas y bloques en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/notas-incrustadas-y-bloques-en-obsidian-paso-a-paso.html)
+- [Cómo poner Obsidian en español (app, corrector y ayuda)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
 - [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
 - [Cómo pasar de Notion a Obsidian sin perder tus notas](https://yabianskysempire.github.io/fundador/articulos/como-pasar-de-notion-a-obsidian.html)
@@ -30,6 +30,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo hacer copias de seguridad de tus notas de Obsidian gratis (Windows, Mac y celular)](https://yabianskysempire.github.io/fundador/articulos/como-hacer-copias-de-seguridad-de-tus-notas-de-ecc351.html)
 - [Obsidian vs Notion para emprendedores hispanohablantes: cuál elegir y cómo organizarte](https://yabianskysempire.github.io/fundador/articulos/obsidian-vs-notion-para-emprendedores-hispanohabla-4b80c5.html)
 - [Obsidian para principiantes: guía paso a paso en español](https://yabianskysempire.github.io/fundador/articulos/obsidian-para-principiantes.html)
+- [Notas incrustadas y bloques en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/notas-incrustadas-y-bloques-en-obsidian-paso-a-paso.html)
 - [Cómo crear un MOC en Obsidian paso a paso](https://yabianskysempire.github.io/fundador/articulos/como-crear-un-moc-en-obsidian-paso-a-paso.html)
 - [Seguimiento de hábitos en Obsidian con tu nota diaria](https://yabianskysempire.github.io/fundador/articulos/seguimiento-de-habitos-en-obsidian-con-tu-nota-diaria.html)
 - [¿Una bóveda o varias en Obsidian? Cómo separar tu negocio y tu vida personal (y cuándo no conviene)](https://yabianskysempire.github.io/fundador/articulos/una-boveda-o-varias-en-obsidian-como-separar-tu-negocio-y-tu.html)
@@ -38,6 +39,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Enlaces internos en Obsidian: cómo conectar tus notas](https://yabianskysempire.github.io/fundador/articulos/enlaces-internos-en-obsidian.html)
 - [Nota diaria en Obsidian: plantilla y rutina de 5 minutos para empezar el día con foco](https://yabianskysempire.github.io/fundador/articulos/nota-diaria-en-obsidian.html)
 - [Método PARA en español: cómo organizar tus notas en Obsidian con proyectos, áreas, recursos y archivo](https://yabianskysempire.github.io/fundador/articulos/metodo-para-en-obsidian.html)
+- [Plantilla de Obsidian para freelancers: clientes y cobros](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-obsidian-para-freelancers.html)
 - [Cómo armar un panel de inicio en Obsidian](https://yabianskysempire.github.io/fundador/articulos/panel-de-inicio-en-obsidian.html)
 - [Tablero Kanban de proyectos en Obsidian con Bases](https://yabianskysempire.github.io/fundador/articulos/kanban-en-obsidian-con-bases.html)
 - [Bases en Obsidian: tablas de tus notas sin complementos](https://yabianskysempire.github.io/fundador/articulos/bases-en-obsidian.html)
@@ -74,6 +76,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo organizar proyectos y entregas siendo freelancer](https://yabianskysempire.github.io/fundador/articulos/organizar-proyectos-y-entregas-siendo-freelancer.html)
 - [Entrevistas con clientes (customer discovery): guía de preguntas y cómo registrar lo que aprendés en Obsidian](https://yabianskysempire.github.io/fundador/articulos/entrevistas-con-clientes-customer-discovery.html)
 - [Cómo hacer seguimiento a clientes potenciales sin perder oportunidades: rutina semanal y mensajes de ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-hacer-seguimiento-a-clientes-potenciales-sin-cda887.html)
+- [Cómo cobrar facturas atrasadas sin perder al cliente](https://yabianskysempire.github.io/fundador/articulos/como-cobrar-facturas-atrasadas.html)
 - [Unit economics para startups tempranas con ejemplo](https://yabianskysempire.github.io/fundador/articulos/unit-economics-para-startups-tempranas-con-ejemplo.html)
 - [Cómo organizar las finanzas de un freelancer](https://yabianskysempire.github.io/fundador/articulos/como-organizar-las-finanzas-de-un-freelancer.html)
 - [Cómo fijar el precio de tu primer producto digital](https://yabianskysempire.github.io/fundador/articulos/como-fijar-el-precio-de-un-producto-digital.html)
@@ -91,7 +94,6 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo delegar tareas en un equipo pequeño: qué delegar, cómo explicarlo y cómo hacer seguimiento](https://yabianskysempire.github.io/fundador/articulos/como-delegar-tareas-en-un-equipo-pequeno.html)
 - [OKRs para equipos pequeños: qué son, cómo definirlos y cómo hacer su seguimiento (con plantilla)](https://yabianskysempire.github.io/fundador/articulos/okrs-para-equipos-pequenos-que-son-como-definirlos-46b4ef.html)
 - [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
-- [Auditoría de tiempo para fundadores](https://yabianskysempire.github.io/fundador/articulos/auditoria-de-tiempo-para-fundadores.html)
 - [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
 - [Cómo escribir un PRD para una startup pequeña](https://yabianskysempire.github.io/fundador/articulos/como-escribir-un-prd-para-una-startup-pequena.html)
 - [Análisis FODA para tu negocio o startup: cómo hacerlo en una hora y convertirlo en decisiones (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/analisis-foda-para-tu-negocio-o-startup.html)
@@ -104,6 +106,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Rutinas y productividad
 
+- [Auditoría de tiempo para fundadores](https://yabianskysempire.github.io/fundador/articulos/auditoria-de-tiempo-para-fundadores.html)
 - [Cómo evitar el agotamiento como fundador: una revisión personal semanal de energía y límites (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/como-evitar-el-agotamiento-como-fundador.html)
 - [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo (con nota diaria en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
 - [Cómo priorizar tareas cuando todo es urgente](https://yabianskysempire.github.io/fundador/articulos/como-priorizar-tareas-cuando-todo-es-urgente.html)
