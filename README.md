@@ -20,6 +20,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Obsidian Web Clipper: guarda páginas web en tus notas](https://yabianskysempire.github.io/fundador/articulos/obsidian-web-clipper.html)
 - [Cómo poner Obsidian en español (app, corrector y ayuda)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
 - [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
@@ -49,6 +50,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo gestionar tus tareas en Obsidian: casillas, fechas y una vista de pendientes (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/como-gestionar-tus-tareas-en-obsidian.html)
 - [Canvas en Obsidian: cómo planificar un proyecto o lanzamiento de forma visual (paso a paso)](https://yabianskysempire.github.io/fundador/articulos/canvas-en-obsidian-como-planificar-un-proyecto-o-76122b.html)
 - [Plantillas de Obsidian en español para organizar tu negocio: cuáles usar y cómo instalarlas](https://yabianskysempire.github.io/fundador/articulos/plantillas-de-obsidian-en-espanol-para-tu-negocio.html)
+- [Cómo registrar y validar ideas de producto en Obsidian](https://yabianskysempire.github.io/fundador/articulos/validar-ideas-de-producto-en-obsidian.html)
+- [Cómo compartir notas de Obsidian con tu equipo](https://yabianskysempire.github.io/fundador/articulos/como-compartir-notas-de-obsidian-con-tu-equipo.html)
 - [Registro de proveedores y contratos en Obsidian](https://yabianskysempire.github.io/fundador/articulos/registro-de-proveedores-y-contratos-en-obsidian.html)
 - [Cómo organizar tu ronda de inversión en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-tu-ronda-de-inversion-en-obsidian.html)
 - [README personal del fundador en Obsidian](https://yabianskysempire.github.io/fundador/articulos/readme-personal-del-fundador-en-obsidian.html)
@@ -69,6 +72,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Cómo preparar una demo de producto para un cliente](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-demo-de-producto-para-un-cliente.html)
 - [Pipeline de ventas para un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/pipeline-de-ventas-para-un-negocio-pequeno.html)
 - [Cómo escribir una propuesta comercial (con plantilla)](https://yabianskysempire.github.io/fundador/articulos/como-escribir-una-propuesta-comercial.html)
 - [Cómo definir tus servicios como freelancer](https://yabianskysempire.github.io/fundador/articulos/como-definir-tus-servicios-como-freelancer.html)
@@ -81,6 +85,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo organizar las finanzas de un freelancer](https://yabianskysempire.github.io/fundador/articulos/como-organizar-las-finanzas-de-un-freelancer.html)
 - [Cómo fijar el precio de tu primer producto digital](https://yabianskysempire.github.io/fundador/articulos/como-fijar-el-precio-de-un-producto-digital.html)
 - [Cómo calcular el runway de tu startup: fórmula y ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-calcular-el-runway-de-tu-startup.html)
+- [Update mensual para inversores: estructura y ejemplo](https://yabianskysempire.github.io/fundador/articulos/update-mensual-para-inversores.html)
 - [Primera reunión de board en una startup temprana](https://yabianskysempire.github.io/fundador/articulos/primera-reunion-de-board-en-una-startup-temprana.html)
 - [Cómo repartir roles entre cofundadores](https://yabianskysempire.github.io/fundador/articulos/como-repartir-roles-entre-cofundadores.html)
 - [Plantilla de acta de reunión: qué anotar y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/plantilla-de-acta-de-reunion.html)
@@ -106,6 +111,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Rutinas y productividad
 
+- [Cómo registrar objeciones de venta y preparar respuestas](https://yabianskysempire.github.io/fundador/articulos/como-registrar-objeciones-de-venta-y-preparar-respuestas.html)
+- [Cómo controlar tus suscripciones y gastos recurrentes](https://yabianskysempire.github.io/fundador/articulos/como-controlar-tus-suscripciones-y-gastos-recurrentes.html)
 - [Auditoría de tiempo para fundadores](https://yabianskysempire.github.io/fundador/articulos/auditoria-de-tiempo-para-fundadores.html)
 - [Cómo evitar el agotamiento como fundador: una revisión personal semanal de energía y límites (con nota en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/como-evitar-el-agotamiento-como-fundador.html)
 - [Time blocking para fundadores: cómo bloquear tu agenda por tiempo y respetarlo (con nota diaria en Obsidian)](https://yabianskysempire.github.io/fundador/articulos/time-blocking-para-fundadores.html)
