@@ -21,6 +21,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 ### Obsidian
 
 - [Obsidian Web Clipper: guarda páginas web en tus notas](https://yabianskysempire.github.io/fundador/articulos/obsidian-web-clipper.html)
+- [Cómo organizar una agencia pequeña en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-una-agencia-pequena-en-obsidian.html)
 - [Cómo poner Obsidian en español (app, corrector y ayuda)](https://yabianskysempire.github.io/fundador/articulos/como-poner-obsidian-en-espanol.html)
 - [Buscar en Obsidian: operadores para encontrar cualquier nota](https://yabianskysempire.github.io/fundador/articulos/buscar-en-obsidian-operadores-de-busqueda.html)
 - [Obsidian en el celular: sincronizar tus notas sin pagar](https://yabianskysempire.github.io/fundador/articulos/obsidian-en-el-celular-sincronizar-sin-pagar.html)
@@ -98,6 +99,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Reunión 1 a 1 con tu equipo: plantilla y preguntas](https://yabianskysempire.github.io/fundador/articulos/reunion-1-a-1-plantilla-y-preguntas.html)
 - [Cómo delegar tareas en un equipo pequeño: qué delegar, cómo explicarlo y cómo hacer seguimiento](https://yabianskysempire.github.io/fundador/articulos/como-delegar-tareas-en-un-equipo-pequeno.html)
 - [OKRs para equipos pequeños: qué son, cómo definirlos y cómo hacer su seguimiento (con plantilla)](https://yabianskysempire.github.io/fundador/articulos/okrs-para-equipos-pequenos-que-son-como-definirlos-46b4ef.html)
+- [Plan de 90 días para un negocio nuevo](https://yabianskysempire.github.io/fundador/articulos/plan-de-90-dias-para-un-negocio-nuevo.html)
 - [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
 - [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
 - [Cómo escribir un PRD para una startup pequeña](https://yabianskysempire.github.io/fundador/articulos/como-escribir-un-prd-para-una-startup-pequena.html)
