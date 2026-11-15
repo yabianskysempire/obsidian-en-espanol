@@ -76,6 +76,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Cómo medir el churn y registrar por qué se van tus clientes](https://yabianskysempire.github.io/fundador/articulos/como-medir-el-churn-y-registrar-por-que-se-van-tus-clientes.html)
 - [Cómo preparar una demo de producto para un cliente](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-demo-de-producto-para-un-cliente.html)
 - [Pipeline de ventas para un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/pipeline-de-ventas-para-un-negocio-pequeno.html)
 - [Cómo escribir una propuesta comercial (con plantilla)](https://yabianskysempire.github.io/fundador/articulos/como-escribir-una-propuesta-comercial.html)
@@ -105,6 +106,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Reunión 1 a 1 con tu equipo: plantilla y preguntas](https://yabianskysempire.github.io/fundador/articulos/reunion-1-a-1-plantilla-y-preguntas.html)
 - [Cómo delegar tareas en un equipo pequeño: qué delegar, cómo explicarlo y cómo hacer seguimiento](https://yabianskysempire.github.io/fundador/articulos/como-delegar-tareas-en-un-equipo-pequeno.html)
 - [OKRs para equipos pequeños: qué son, cómo definirlos y cómo hacer su seguimiento (con plantilla)](https://yabianskysempire.github.io/fundador/articulos/okrs-para-equipos-pequenos-que-son-como-definirlos-46b4ef.html)
+- [Cómo tomarte vacaciones siendo fundador](https://yabianskysempire.github.io/fundador/articulos/como-tomarte-vacaciones-siendo-fundador.html)
 - [Plan de 90 días para un negocio nuevo](https://yabianskysempire.github.io/fundador/articulos/plan-de-90-dias-para-un-negocio-nuevo.html)
 - [Registro de riesgos para tu startup o proyecto](https://yabianskysempire.github.io/fundador/articulos/registro-de-riesgos-para-tu-startup-o-proyecto.html)
 - [Cómo ordenar el correo y los mensajes de tu negocio](https://yabianskysempire.github.io/fundador/articulos/como-ordenar-el-correo-y-los-mensajes-de-tu-negocio.html)
