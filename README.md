@@ -20,6 +20,8 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Obsidian
 
+- [Cómo registrar tus horas trabajadas en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-registrar-tus-horas-trabajadas-en-obsidian.html)
+- [Alias en Obsidian para nombrar y enlazar tus notas](https://yabianskysempire.github.io/fundador/articulos/alias-en-obsidian-para-nombrar-y-enlazar-tus-notas.html)
 - [Vista de grafo en Obsidian: para qué sirve y cómo usarla](https://yabianskysempire.github.io/fundador/articulos/vista-de-grafo-en-obsidian.html)
 - [Obsidian Web Clipper: guarda páginas web en tus notas](https://yabianskysempire.github.io/fundador/articulos/obsidian-web-clipper.html)
 - [Cómo organizar una agencia pequeña en Obsidian](https://yabianskysempire.github.io/fundador/articulos/como-organizar-una-agencia-pequena-en-obsidian.html)
