@@ -35,6 +35,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo hacer copias de seguridad de tus notas de Obsidian gratis (Windows, Mac y celular)](https://yabianskysempire.github.io/fundador/articulos/como-hacer-copias-de-seguridad-de-tus-notas-de-ecc351.html)
 - [Obsidian vs Notion para emprendedores hispanohablantes: cuál elegir y cómo organizarte](https://yabianskysempire.github.io/fundador/articulos/obsidian-vs-notion-para-emprendedores-hispanohabla-4b80c5.html)
 - [Obsidian para principiantes: guía paso a paso en español](https://yabianskysempire.github.io/fundador/articulos/obsidian-para-principiantes.html)
+- [Zettelkasten en Obsidian: método y paso a paso](https://yabianskysempire.github.io/fundador/articulos/zettelkasten-en-obsidian.html)
 - [Cómo usar Obsidian para estudiar](https://yabianskysempire.github.io/fundador/articulos/como-usar-obsidian-para-estudiar.html)
 - [Notas de lectura en Obsidian: cómo resumir libros](https://yabianskysempire.github.io/fundador/articulos/notas-de-lectura-en-obsidian.html)
 - [Notas incrustadas y bloques en Obsidian, paso a paso](https://yabianskysempire.github.io/fundador/articulos/notas-incrustadas-y-bloques-en-obsidian-paso-a-paso.html)
@@ -79,6 +80,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Negocio y fundadores
 
+- [Cómo pedir testimonios a tus clientes (con mensajes)](https://yabianskysempire.github.io/fundador/articulos/como-pedir-testimonios-a-tus-clientes.html)
 - [Cómo medir el churn y registrar por qué se van tus clientes](https://yabianskysempire.github.io/fundador/articulos/como-medir-el-churn-y-registrar-por-que-se-van-tus-clientes.html)
 - [Cómo preparar una demo de producto para un cliente](https://yabianskysempire.github.io/fundador/articulos/como-preparar-una-demo-de-producto-para-un-cliente.html)
 - [Pipeline de ventas para un negocio pequeño](https://yabianskysempire.github.io/fundador/articulos/pipeline-de-ventas-para-un-negocio-pequeno.html)
@@ -88,6 +90,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo organizar proyectos y entregas siendo freelancer](https://yabianskysempire.github.io/fundador/articulos/organizar-proyectos-y-entregas-siendo-freelancer.html)
 - [Entrevistas con clientes (customer discovery): guía de preguntas y cómo registrar lo que aprendés en Obsidian](https://yabianskysempire.github.io/fundador/articulos/entrevistas-con-clientes-customer-discovery.html)
 - [Cómo hacer seguimiento a clientes potenciales sin perder oportunidades: rutina semanal y mensajes de ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-hacer-seguimiento-a-clientes-potenciales-sin-cda887.html)
+- [Flujo de caja de un negocio pequeño: plantilla simple](https://yabianskysempire.github.io/fundador/articulos/flujo-de-caja-negocio-pequeno.html)
 - [Punto de equilibrio: cómo calcularlo con un ejemplo](https://yabianskysempire.github.io/fundador/articulos/punto-de-equilibrio.html)
 - [Cómo separar finanzas personales y del negocio](https://yabianskysempire.github.io/fundador/articulos/como-separar-finanzas-personales-y-del-negocio.html)
 - [Cómo calcular tu precio por hora como freelancer](https://yabianskysempire.github.io/fundador/articulos/como-calcular-tu-precio-por-hora-como-freelancer.html)
@@ -96,6 +99,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 - [Cómo organizar las finanzas de un freelancer](https://yabianskysempire.github.io/fundador/articulos/como-organizar-las-finanzas-de-un-freelancer.html)
 - [Cómo fijar el precio de tu primer producto digital](https://yabianskysempire.github.io/fundador/articulos/como-fijar-el-precio-de-un-producto-digital.html)
 - [Cómo calcular el runway de tu startup: fórmula y ejemplo](https://yabianskysempire.github.io/fundador/articulos/como-calcular-el-runway-de-tu-startup.html)
+- [Reunión de inicio de proyecto: agenda y plantilla](https://yabianskysempire.github.io/fundador/articulos/reunion-de-inicio-de-proyecto.html)
 - [Cómo organizar un equipo remoto en distintas zonas horarias](https://yabianskysempire.github.io/fundador/articulos/como-organizar-un-equipo-remoto-en-distintas-zonas-horarias.html)
 - [Update mensual para inversores: estructura y ejemplo](https://yabianskysempire.github.io/fundador/articulos/update-mensual-para-inversores.html)
 - [Primera reunión de board en una startup temprana](https://yabianskysempire.github.io/fundador/articulos/primera-reunion-de-board-en-una-startup-temprana.html)
@@ -125,6 +129,7 @@ De [yabianskysempire.github.io/fundador](https://yabianskysempire.github.io/fund
 
 ### Rutinas y productividad
 
+- [Rutina de cierre del día para fundadores en 10 minutos](https://yabianskysempire.github.io/fundador/articulos/rutina-de-cierre-del-dia-para-fundadores-en-10-minutos.html)
 - [Cómo emprender con un trabajo de tiempo completo](https://yabianskysempire.github.io/fundador/articulos/como-emprender-con-un-trabajo-de-tiempo-completo.html)
 - [Cómo registrar objeciones de venta y preparar respuestas](https://yabianskysempire.github.io/fundador/articulos/como-registrar-objeciones-de-venta-y-preparar-respuestas.html)
 - [Cómo controlar tus suscripciones y gastos recurrentes](https://yabianskysempire.github.io/fundador/articulos/como-controlar-tus-suscripciones-y-gastos-recurrentes.html)
